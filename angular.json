@@ -178,7 +178,7 @@
   },
   "defaultProject": "ngx-translate-cut",
   "cli": {
-    "analytics": true,
+    "analytics": "d88e9f98-99e9-469f-9379-7483e3cbad44",
     "defaultCollection": "@angular-eslint/schematics"
   }
 }
