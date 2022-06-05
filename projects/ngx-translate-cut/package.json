@@ -1,21 +1,21 @@
 {
-  "name": "ngx-translate-cut",
+  "name": "@spejik/ngx-translate-cut",
   "version": "3.2.0",
-  "description": "Angular pipe for cutting translations (plugin for ngx-translate)",
+  "description": "Angular 14 pipe for cutting translations (plugin for ngx-translate)",
   "author": "Lukas Bartak <bart@bartweb.cz> (https://github.com/bartholomej)",
   "peerDependencies": {
-    "@angular/common": ">=13 <14",
-    "@angular/core": ">=13 <14",
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0",
     "@ngx-translate/core": ">=14 <15"
   },
-  "homepage": "https://github.com/bartholomej/ngx-translate-cut",
+  "homepage": "https://github.com/spejik/ngx-translate-cut",
   "license": "MIT",
   "repository": {
-    "url": "git+https://github.com/bartholomej/ngx-translate-cut.git",
+    "url": "git+https://github.com/spejik/ngx-translate-cut.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bartholomej/ngx-translate-cut/issues"
+    "url": "https://github.com/spejik/ngx-translate-cut/issues"
   },
   "keywords": [
     "angular",
@@ -27,8 +27,11 @@
   "engines": {
     "node": ">=14"
   },
+  "contributors": [
+    "spejik"
+  ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://npm.pkg.github.com/@spejik"
   },
   "funding": {
     "type": "github",
